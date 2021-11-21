@@ -11,124 +11,244 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
-    },
-    {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "chainId": 56,
+      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+      "chainId": 288,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
       "name": "Ethereum Token",
       "symbol": "ETH",
-      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      "chainId": 56,
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 288,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
-      "name": "BTCB Token",
-      "symbol": "BTCB",
-      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
-    },
-    {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x55d398326f99059fF775485246999027B3197955",
-      "chainId": 56,
+      "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+      "chainId": 288,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
-      "name": "PancakeSwap Token",
-      "symbol": "CAKE",
-      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-      "chainId": 56,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "OMGToken",
+      "symbol": "OMG",
+      "address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
+      "chainId": 288,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "Venus",
-      "symbol": "XVS",
-      "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
-      "chainId": 56,
+      "name": "OolongSwap Token",
+      "symbol": "OLO",
+      "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "VAI Stablecoin",
-      "symbol": "VAI",
-      "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
-      "chainId": 56,
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "Pancake Bunny",
+      "name": "BobaDoge",
+      "symbol": "BobaDoge",
+      "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "SenpaiSwap",
+      "symbol": "SENPAI",
+      "address": "0xaC3a4aF1778203c8B651dAfA73cEd5b79c80F239",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Boba Punks",
+      "symbol": "bPUNKS",
+      "address": "0x3CA6F1D2F935752d16121895378ff4898db71B04",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Bunny",
       "symbol": "BUNNY",
-      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
-      "chainId": 56,
+      "address": "0x85067d7a036f992c264F3C3dd1333e3819fD165A",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "SafeMoon",
-      "symbol": "SAFEMOON",
-      "address": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "Alpaca",
-      "symbol": "ALPACA",
-      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
-      "chainId": 56,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "Belt",
-      "symbol": "BELT",
-      "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
-      "chainId": 56,
+      "name": "BobaFloki",
+      "symbol": "Bfloki",
+      "address": "0x6B6e2c4c764b9eebf352d8aD027FF7E9E8b9f145",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "TokoCrypto",
-      "symbol": "TKO",
-      "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
-      "chainId": 56,
+      "name": "Waifu Token",
+      "symbol": "WAIFU",
+      "address": "0xB5cB0975716A4AA6438d3FA02364886E13fd678c",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "Nerve Finance",
-      "symbol": "NRV",
-      "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
-      "chainId": 56,
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     },
     {
-      "name": "Ellipsis",
-      "symbol": "EPS",
-      "address": "0xA7f552078dcC247C2684336020c03648500C6d9F",
-      "chainId": 56,
+      "name": "BobaShiba",
+      "symbol": "BShib",
+      "address": "0x4Db8A990Fe714F4cBcb01F475D2D803170b4d3a1",
+      "chainId": 288,
       "decimals": 18,
-      "logoURI": "https://pancakeswap.finance/images/tokens/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Fantom",
+      "symbol": "FTM",
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "BobaNyan",
+      "symbol": "NYAN",
+      "address": "0x93CcA2C17a0b3Fc75593E61b4745ED03A8255c9D",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "BobaMoon",
+      "symbol": "BobaMoon",
+      "address": "0xbaaEeA011A9fa668025b8d9d49dAB0bda19A3821",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Matic",
+      "symbol": "MATIC",
+      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Synapse",
+      "symbol": "SYN",
+      "address": "0xb554A55358fF0382Fb21F0a478C3546d1106Be8c",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Bobba Fett",
+      "symbol": "BOBAFETT",
+      "address": "0xb9357a1f19baC0c7f81fbdb6d841e0ea78a4cE65",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "BobaBooba",
+      "symbol": "BOOBA",
+      "address": "0x9AB1F99BaEFD4F809B971D1F84A93096c346DD16",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "ShibBoba",
+      "symbol": "ShibBoba",
+      "address": "0xB7Fbb06964d1554Dbb7C70713107b479b8E29C73",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Waifu Cloner",
+      "symbol": "xWAIFU",
+      "address": "0xaE4a00A5051141BfDc16B7588E174EFE40CEF53f",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "MiniBoba",
+      "symbol": "MINIBOBA",
+      "address": "0x82c646E9d9833beF72cC38299db8c04613409602",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "NOTICE ME SENPAI",
+      "symbol": "NOTICE-ME",
+      "address": "0x3Fc689AD9f3a2bac5C281D758cdFf0f364f3F6e3",
+      "chainId": 288,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
     }
   ]
 }
